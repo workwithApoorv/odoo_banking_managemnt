@@ -1,0 +1,8 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+
+
+
+access_new.bank.data,access_new_bank_data,banking_management.model_new_bank_data,base.group_user,1,1,1,1
+access_new.bank.data.line,access_new_bank_data_line,banking_management.model_new_bank_data_line,base.group_user,1,1,1,1
+access_new.bank.data,access_new_bank_data,banking_management.model_new_bank_customer,base.group_user,1,1,1,1
